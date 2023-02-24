@@ -1,0 +1,9 @@
+# Python environments
+env/
+venv/
+
+# Pycharm
+.idea/
+.ipynb_checkpoints/
+data/
+**/__pycache__/
